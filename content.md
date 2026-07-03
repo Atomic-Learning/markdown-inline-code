@@ -3,3 +3,5 @@ Within a paragraph of text, you can include code-like content by wrapping it in 
 ```markdown
 For example, we can refer to `my_function()` using the code:
 ```
+
+The exact appearance of the code will depend on the Markdown renderer being used.
