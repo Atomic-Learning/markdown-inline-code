@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Markdown: Inline Code",
+    "slug": "markdown-inline-code",
+    "description": "A description of how to include code-like content embedded in normal text in Markdown documents.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "markdown"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "markdown-text"
     ],
     "related": [
-        "",
-        ""
     ]
 }
